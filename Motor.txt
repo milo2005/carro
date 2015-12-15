@@ -1,3 +1,4 @@
 Int cilindraje
 int peso
+String tipo
 int serie
